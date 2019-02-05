@@ -1,2 +1,2 @@
 # Javascript-challenge
-Repository for JS stemwijzer/pizza challenge
+Repository for JS stemwijzer challenge
